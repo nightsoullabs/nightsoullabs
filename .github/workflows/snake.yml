@@ -9,6 +9,9 @@ on:
 jobs:
   generate:
     runs-on: ubuntu-latest
+    env:
+      GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
@@ -28,5 +31,3 @@ jobs:
           author_email: actions@github.com
           message: "🐍 Generate contribution snake"
           add: "output/*.svg"
-  env:
-    GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
