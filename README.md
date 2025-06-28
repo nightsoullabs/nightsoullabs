@@ -112,50 +112,17 @@ hobbies:
 ---
 
 <details open>
-<summary><h2>🌟 Featured Projects</h2></summary>
-
-<div align="center">
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🤖 DDC Models</h3>
-      <div align="center">
-        <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="50%" alt="Vortex AI">
-        <p>Explore our state-of-the-art emotionally intelligent AI models.</p>
-        <a href="https://huggingface.co/DevsDoCode/vortex" target="_blank">
-          <img src="https://img.shields.io/badge/🤗%20Hugging%20Face-View%20Project-FF9A00?style=for-the-badge">
-        </a>
-      </div>
-    </td>
-    <td width="50%">
-      <h3 align="center">AVA Desktop Assistant</h3>
-      <div align="center">
-        <img src="assets\ava_logo.png" width="50%" alt="Coming Soon">
-        <p>An advanced AI-powered desktop assistant featuring natural language processing, voice interaction, and smart automation capabilities. Built with cutting-edge AGI technology for seamless human-computer interaction.</p>
-        <a href="https://github.com/SreejanPersonal/JARVIS-AGI" target="_blank">
-          <img src="https://img.shields.io/badge/GitHub-Follow%20Me-green?style=for-the-badge&logo=github">
-        </a>
-      </div>
-    </td>
-  </tr>
-</table>
-
-</details>
-
----
-
-<details open>
 <summary><h2>🤝 Connect & Collaborate</h2></summary>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.youtube.com/@DevsDoCode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="devsdocode" height="30" width="40" /></a>
-<a href="https://www.instagram.com/sree.shades_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sree.shades_" height="30" width="40" /></a>
-<a href="https://x.com/DevsDoCode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="devsdocode" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/devsdocode/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devsdocode" height="30" width="40" /></a>
-<a href="https://t.me/devsdocode" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/240px-Telegram_logo.svg.png" alt="devsdocode" height="30" width="40" /></a>
-<a href="https://discord.com/invite/4gGcqsWWde" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="devsdocode" height="30" width="40" /></a>
-<a href="https://huggingface.co/DevsDoCode" target="blank"><img align="center" src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="devsdocode" height="30" width="40" /></a>
+<a href="https://www.youtube.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="devsdocode" height="30" width="40" /></a>
+<a href="https://www.instagram.com/youhaveme064" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sree.shades_" height="30" width="40" /></a>
+<a href="https://x.com/darkdev064" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="devsdocode" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/gaurav-kumar-yadav/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devsdocode" height="30" width="40" /></a>
+<a href="https://t.me/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/240px-Telegram_logo.svg.png" alt="devsdocode" height="30" width="40" /></a>
+<a href="https://discord.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="devsdocode" height="30" width="40" /></a>
+<a href="https://huggingface.co/nightsoullabs" target="blank"><img align="center" src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="devsdocode" height="30" width="40" /></a>
 </p>
 
 </details>
@@ -166,7 +133,7 @@ hobbies:
 <summary><h2>💖 Support My Work</h2></summary>
 
 <div align="center">
-<a href='https://www.buymeacoffee.com/devsdocode' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+<a href='https://www.buymeacoffee.com/nightsoullabs' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 </div>
 
 </details>
@@ -174,7 +141,7 @@ hobbies:
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=SreejanPersonal&color=blueviolet" alt="Profile Views">
+  <img src="https://komarev.com/ghpvc/?username=nightsoullabs&color=blueviolet" alt="Profile Views">
   <h3>"Building the future, one line of code at a time."</h3>
-  © 2025 DevsDoCode | All rights reserved.
+  © 2025 NightSoullabs | All rights reserved.
 </div>
