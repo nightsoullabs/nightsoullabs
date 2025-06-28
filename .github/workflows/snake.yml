@@ -28,3 +28,5 @@ jobs:
           author_email: actions@github.com
           message: "🐍 Generate contribution snake"
           add: "output/*.svg"
+  env:
+    GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
