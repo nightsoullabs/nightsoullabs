@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="assets\banner.png" alt="DevsDoCode's AI Universe" width="100%">
+  <img src=".github/workflows/ChatGPT Image Jun 28, 2025, 08_57_39 AM.png" alt="NightSoullabs AI Universe" width="100%">
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=0892d0&center=true&vCenter=true&width=500&height=70&duration=1000&lines=Hello+There!+👋;+I'm+Sree ❤️;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=9B59B6&center=true&vCenter=true&width=600&height=70&duration=2000&lines=Hello+There!+👋;+I'm+NightSoul+Labs+🚀;+Turning+Imagination+into+Innovation" />
 </h1>
   
   [![GitHub](https://img.shields.io/badge/GitHub-nightsoullabs-181717?style=for-the-badge&logo=github)](https://github.com/nightsoullabs)
