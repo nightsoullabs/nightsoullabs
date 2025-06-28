@@ -63,10 +63,7 @@ hobbies:
 <details open>
 <summary><h2>🌟 My Journey</h2></summary>
 
-  - 💡 Self-taught programmer with a passion for solving real-world problems  
-  - 🏆 Rapidly advanced in full-stack development through hands-on projects  
-  - 🌍 Driven by a vision to build impactful and scalable digital solutions  
-  - 🤝 Actively fostering a community of developers and open-source contributors
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=8E44AD&width=700&lines=Self-taught+programmer+with+a+passion+for+tech;Built+real-world+projects+from+scratch;Community-driven+and+AI-focused+mindset;Always+exploring+new+boundaries" />
 
 </details>
 
