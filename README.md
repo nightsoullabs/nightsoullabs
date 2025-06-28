@@ -104,7 +104,7 @@ hobbies:
 <summary><h2>🐍 My Contributions 🐍</h2></summary>
   <div align="center">
     <br>
-    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/nightsoullabs/nightsoullabs/output/github-contribution-grid-snake.svg" />
+    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/nightsoullabs/nightsoullabs/096c783b1390080b388cfbdcf458ee352f901657/.github/workflows/github-contribution-grid-snake.svg" />
     <br/><br/><br/>
   </div>
 </details>
