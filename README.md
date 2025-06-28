@@ -1,14 +1,26 @@
 <div align="center">
-  <img src=".github/workflows/ChatGPT Image Jun 28, 2025, 08_57_39 AM.png" alt="NightSoullabs AI Universe" width="100%">
+  <img src=".github/workflows/ChatGPT Image Jun 28, 2025, 09_11_20 AM.png" width="100%">
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=9B59B6&center=true&vCenter=true&width=600&height=70&duration=2000&lines=Hello+There!+👋;+I'm+NightSoul+Labs+🚀;+Turning+Imagination+into+Innovation" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&color=9B59B6&center=true&vCenter=true&width=800&height=80&duration=3000&pause=1000&lines=Welcome+to+NightSoul+Labs+🌌;Innovating+Beyond+Boundaries+🚀;Where+Dreams+Become+Digital+Reality+💡;Exploring+AI,+Web3+and+Beyond+🧠🌐;Crafting+Tomorrow,+Today+⚙️;Powering+Ideas+with+Technology+🔥" />
 </h1>
   
-  [![GitHub](https://img.shields.io/badge/GitHub-nightsoullabs-181717?style=for-the-badge&logo=github)](https://github.com/nightsoullabs)
-  [![Age](https://img.shields.io/badge/Age-20-purple?style=for-the-badge)](#)
+<div style="display: flex; align-items: center; justify-content: flex-start; flex-wrap: wrap; gap: 20px;">
+  <!-- Left Corner: Badges -->
+  <div style="flex-shrink: 0;">
+    <a href="https://github.com/nightsoullabs" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-nightsoullabs-181717?style=for-the-badge&logo=github" alt="GitHub">
+    </a>
+    <img src="https://img.shields.io/badge/Age-20-purple?style=for-the-badge" alt="Age">
+  </div>
 
-  *Pioneering Software Development | Full Stack Developer*
+  <!-- Center: Animated Typing with Emojis -->
+  <div style="flex-grow: 1; text-align: center;">
+    <img 
+      src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=28&pause=1000&color=9B59B6&center=true&vCenter=true&width=600&lines=✨+Code.+Create.+Conquer.+💖;Full+Stack+Magic+In+Motion+🎇;Crafting+Tomorrow's+Tech+Today+🚀;Dream+It,+Build+It,+Scale+It+🔥;Welcome+to+NightSoul+Labs+🌌"
+      alt="Animated Tagline"
+    />
+  </div>
 </div>
 
 ---
